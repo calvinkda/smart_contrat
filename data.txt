@@ -1,0 +1,2 @@
+
+'{"type": "football","recipient": [{"types": "groupes de football","status": "open","MatriceDiffusion": [[0,1,1,1,1],[1,0,1,1,1],[1,1,0,1,1],[1,1,1,0,1],[1,1,1,1,0]]}]}'  
